@@ -6,6 +6,7 @@ int main()
 {
 
     int n;
+    int c;
     while(cin>>n)
     {
         if(n<7) cout<<0<<endl;
